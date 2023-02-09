@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.8)  9 FEB 2023 10:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.8)  9 FEB 2023 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1452,7 +1452,7 @@ LaTeX Font Warning: Font shape `T5/cmss/bx/it' undefined
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 1.
 (C:\Users\Latitude E5480\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-<logo/logo.png, id=10, 1027.84pt x 327.2225pt>
+<logo/logo.png, id=11, 1027.84pt x 327.2225pt>
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 1.
@@ -1468,7 +1468,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{C:/Users/Latitude E5480/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
- <./logo/logo.png>]) (deso3.tex)
+ <./logo/logo.png>]) (deso3.tex
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 1.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2
+
+])
 \tf@thm=\write8
 \openout8 = `main_new.thm'.
 
@@ -1485,7 +1500,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2
+[3
 
 ] (main_new.aux)
 
@@ -1497,17 +1512,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 41355 strings out of 476374
- 875236 string characters out of 5784571
+ 41374 strings out of 476374
+ 875428 string characters out of 5784571
  1877340 words of memory out of 5000000
- 60873 multiletter control sequences out of 15000+600000
+ 60878 multiletter control sequences out of 15000+600000
  533891 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,20n,98p,1292b,2013s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Latitude E5480\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1440.pk>{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-t5.enc}{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}<C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qagb.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbxti10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnssbx10.pfb>
-Output written on main_new.pdf (2 pages, 246132 bytes).
+ <C:\Users\Latitude E5480\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1440.pk>{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-t5.enc}{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}<C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qagb.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbxti10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnssbx10.pfb>
+Output written on main_new.pdf (3 pages, 263764 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 42 words of extra memory for PDF output out of 10000 (max. 10000000)
 
