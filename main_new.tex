@@ -6,6 +6,8 @@
 \usepackage{setspace}
 \usepackage{wrapfig}
 
+\setlist[enumerate]{topsep=7pt,itemsep=0.3cm}
+
 %Gói căn lề giấy.
 \usepackage[top=2cm, bottom=2cm, left=1.5cm, right=1.5cm]{geometry}
 
@@ -552,12 +554,12 @@
 }
 \newcommand{\soso}{\mathbin{/\mkern-6mu/}}
 \usepackage{enumitem}
-\setlist[enumerate,1]{label={(\alph*)}}
+\setlist[enumerate,1]{label={\alph*.}}
 \begin{document}
 	
 	%Các tùy chọn cho gói ex_test.
 	%\hideansEX{vd}% Ân lời giải
-	\hideansEX{bt}% Ẩn lời giải bài
+	% \hideansEX{bt}% Ẩn lời giải bài
 	%\hideansEX{ex}% Ẩn lời giải câu TN
 	
 	%\dotlineans{5}{ex}% luôn ẩn lời giải và hiện 5 dòng kẻ
