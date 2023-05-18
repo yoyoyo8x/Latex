@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.8)  20 MAR 2023 18:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.8)  19 MAY 2023 01:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1482,7 +1482,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on in
  (C:\Users\Latitude E5480\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 23.
+Package pdftex.def Info: logo/logo.png  used on input line 24.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 
@@ -1513,7 +1513,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--126
 
  []
 
-<./img//1-4-lg.png, id=162, 387.24675pt x 221.02576pt>
+<./img//1-4-lg.png, id=161, 387.24675pt x 221.02576pt>
 File: ./img//1-4-lg.png Graphic file (type png)
 <use ./img//1-4-lg.png>
 Package pdftex.def Info: ./img//1-4-lg.png  used on input line 126.
@@ -1549,7 +1549,7 @@ Overfull \hbox (29.3495pt too wide) detected at line 43
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 50.
+Package pdftex.def Info: logo/logo.png  used on input line 49.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1578,11 +1578,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--152
 
  []
 
-<./img//2-4-lg.png, id=216, 287.8755pt x 275.8305pt>
+<./img//2-4-lg.png, id=214, 287.8755pt x 275.8305pt>
 File: ./img//2-4-lg.png Graphic file (type png)
 <use ./img//2-4-lg.png>
 Package pdftex.def Info: ./img//2-4-lg.png  used on input line 152.
-(pdftex.def)             Requested size: 358.50317pt x 343.53725pt.
+(pdftex.def)             Requested size: 307.2929pt x 294.4665pt.
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 152.
@@ -1604,18 +1604,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 172--172
 
  []
 
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 172.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9 <./img//2-4-lg.png>]) (deso3.tex
+) (deso3.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -1628,7 +1617,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
+[9 <./img//2-4-lg.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
  []
@@ -1649,18 +1638,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11
+[10
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 105--105
 
  []
 
-<./img//3-4-lg.png, id=260, 402.303pt x 118.041pt>
+<./img//3-4-lg.png, id=254, 402.303pt x 118.041pt>
 File: ./img//3-4-lg.png Graphic file (type png)
 <use ./img//3-4-lg.png>
 Package pdftex.def Info: ./img//3-4-lg.png  used on input line 105.
-(pdftex.def)             Requested size: 332.89412pt x 97.68039pt.
+(pdftex.def)             Requested size: 358.50317pt x 105.19482pt.
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 105.
@@ -1672,7 +1661,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12 <./img//3-4-lg.png>]
+[11 <./img//3-4-lg.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 141--141
 
  []
@@ -1682,7 +1671,18 @@ Overfull \hbox (23.06465pt too wide) detected at line 141
 [][]
  []
 
-) (deso4.tex
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 141.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]) (deso4.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 3.
@@ -1714,8 +1714,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [14
 
 ]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 128.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 128--128
 
+ []
+
+
+Overfull \hbox (5.99153pt too wide) detected at line 128
+[][]
  []
 
 File: logo/logo.png Graphic file (type png)
@@ -1729,14 +1747,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15]
-Overfull \hbox (5.99153pt too wide) detected at line 128
-[][]
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+
  []
 
+<./img//4-4-lg.png, id=322, 219.82124pt x 140.32425pt>
+File: ./img//4-4-lg.png Graphic file (type png)
+<use ./img//4-4-lg.png>
+Package pdftex.def Info: ./img//4-4-lg.png  used on input line 181.
+(pdftex.def)             Requested size: 281.68385pt x 179.81996pt.
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 136.
+Package pdftex.def Info: logo/logo.png  used on input line 181.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1745,17 +1768,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
-
- []
-
-<./img//4-4-lg.png, id=324, 219.82124pt x 140.32425pt>
-File: ./img//4-4-lg.png Graphic file (type png)
-<use ./img//4-4-lg.png>
-Package pdftex.def Info: ./img//4-4-lg.png  used on input line 181.
-(pdftex.def)             Requested size: 281.68385pt x 179.81996pt.
-
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 181--181
 
  []
@@ -1771,25 +1784,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17 <./img//4-4-lg.png>]
-<./img//ds4-b5.png, id=344, 311.36325pt x 196.3335pt>
+[18 <./img//4-4-lg.png>]
+<./img//ds4-b5.png, id=351, 311.36325pt x 196.3335pt>
 File: ./img//ds4-b5.png Graphic file (type png)
 <use ./img//ds4-b5.png>
 Package pdftex.def Info: ./img//ds4-b5.png  used on input line 185.
 (pdftex.def)             Requested size: 179.2555pt x 113.03168pt.
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 203.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[18 <./img//ds4-b5.png>]) (deso5.tex
+) (deso5.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -1802,7 +1803,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19]
+[19 <./img//ds4-b5.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 
  []
@@ -1825,11 +1826,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--119
 
  []
 
-<./img//5-4-lg.png, id=380, 256.5585pt x 150.5625pt>
-File: ./img//5-4-lg.png Graphic file (type png)
-<use ./img//5-4-lg.png>
-Package pdftex.def Info: ./img//5-4-lg.png  used on input line 119.
-(pdftex.def)             Requested size: 281.68385pt x 165.32288pt.
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 119.
@@ -1841,7 +1837,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21]) (deso6.tex
+[21]
+<./img//5-4-lg.png, id=396, 256.5585pt x 150.5625pt>
+File: ./img//5-4-lg.png Graphic file (type png)
+<use ./img//5-4-lg.png>
+Package pdftex.def Info: ./img//5-4-lg.png  used on input line 119.
+(pdftex.def)             Requested size: 281.68385pt x 165.32288pt.
+) (deso6.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -1916,6 +1918,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [25 <./img//6-4-lg.png>]
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 2.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 65.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
@@ -1926,7 +1941,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[26
+[27
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 94--94
@@ -1944,12 +1959,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[27]
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 130--130
 
  []
 
-<./img//7-4-lg.png, id=488, 227.04825pt x 166.82326pt>
+<./img//7-4-lg.png, id=493, 227.04825pt x 166.82326pt>
 File: ./img//7-4-lg.png Graphic file (type png)
 <use ./img//7-4-lg.png>
 Package pdftex.def Info: ./img//7-4-lg.png  used on input line 130.
@@ -1965,7 +1980,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[28 <./img//7-4-lg.png>]
+[29 <./img//7-4-lg.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 144--144
 
  []
@@ -1983,7 +1998,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[29]
+[30]
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 52.
@@ -1996,7 +2011,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[30
+[31
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 66--66
@@ -2008,7 +2023,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--103
 
  []
 
-<./img//8-4-lg.png, id=527, 193.32225pt x 76.48575pt>
+<./img//8-4-lg.png, id=533, 193.32225pt x 76.48575pt>
 File: ./img//8-4-lg.png Graphic file (type png)
 <use ./img//8-4-lg.png>
 Package pdftex.def Info: ./img//8-4-lg.png  used on input line 103.
@@ -2024,7 +2039,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[31 <./img//8-4-lg.png>]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 135--135
 
  []
@@ -2044,7 +2059,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[32]) (deso9.tex
+[33 <./img//8-4-lg.png>]) (deso9.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -2057,7 +2072,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[33]
+[34]
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 98.
@@ -2070,7 +2085,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[34
+[35
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 98--98
@@ -2088,7 +2103,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[35]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 186--186
 
  []
@@ -2109,8 +2124,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[36]
-<./img//9-4-lg.png, id=610, 211.992pt x 187.902pt>
+[37]
+<./img//9-4-lg.png, id=617, 211.992pt x 187.902pt>
 File: ./img//9-4-lg.png Graphic file (type png)
 <use ./img//9-4-lg.png>
 Package pdftex.def Info: ./img//9-4-lg.png  used on input line 186.
@@ -2127,7 +2142,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[37 <./img//9-4-lg.png>]
+[38 <./img//9-4-lg.png>]
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 226.
@@ -2140,7 +2155,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38]) (deso10.tex
+[39]) (deso10.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -2153,7 +2168,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[39]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
@@ -2174,18 +2189,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[40
+[41
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 101--101
 
  []
 
-<./img//10-4-lg.png, id=660, 349.90726pt x 227.04825pt>
-File: ./img//10-4-lg.png Graphic file (type png)
-<use ./img//10-4-lg.png>
-Package pdftex.def Info: ./img//10-4-lg.png  used on input line 101.
-(pdftex.def)             Requested size: 281.68385pt x 182.77864pt.
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 101.
@@ -2197,7 +2207,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41]) (deso11.tex
+[42]
+<./img//10-4-lg.png, id=681, 349.90726pt x 227.04825pt>
+File: ./img//10-4-lg.png Graphic file (type png)
+<use ./img//10-4-lg.png>
+Package pdftex.def Info: ./img//10-4-lg.png  used on input line 101.
+(pdftex.def)             Requested size: 281.68385pt x 182.77864pt.
+) (deso11.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -2210,7 +2226,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[42 <./img//10-4-lg.png>]
+[43 <./img//10-4-lg.png>]
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 47.
@@ -2223,12 +2239,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[43
+[44
 
 ]
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 83.
+Package pdftex.def Info: logo/logo.png  used on input line 82.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 
@@ -2238,12 +2254,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[44]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 109--109
 
  []
 
-<./img//11-4-lg.png, id=722, 326.4195pt x 301.72725pt>
+<./img//11-4-lg.png, id=728, 326.4195pt x 301.72725pt>
 File: ./img//11-4-lg.png Graphic file (type png)
 <use ./img//11-4-lg.png>
 Package pdftex.def Info: ./img//11-4-lg.png  used on input line 109.
@@ -2259,48 +2275,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[45 <./img//11-4-lg.png>]
+[46 <./img//11-4-lg.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 127--127
 
  []
 
-<./img//11-5-lg.png, id=737, 191.5155pt x 223.43475pt>
+<./img//11-5-lg.png, id=741, 191.5155pt x 223.43475pt>
 File: ./img//11-5-lg.png Graphic file (type png)
 <use ./img//11-5-lg.png>
 Package pdftex.def Info: ./img//11-5-lg.png  used on input line 127.
 (pdftex.def)             Requested size: 204.85672pt x 239.01486pt.
-) (deso12.tex
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 127.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47 <./img//11-5-lg.png>]) (deso12.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[46 <./img//11-5-lg.png>]
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 63.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[47
-
-]
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 90.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 
@@ -2311,11 +2310,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [48]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 43.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49
+
+]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 82.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50]
 Underfull \hbox (badness 10000) in paragraph at lines 106--106
 
  []
 
-<./img//12-4-lg.png, id=777, 173.448pt x 193.9245pt>
+<./img//12-4-lg.png, id=787, 173.448pt x 193.9245pt>
 File: ./img//12-4-lg.png Graphic file (type png)
 <use ./img//12-4-lg.png>
 Package pdftex.def Info: ./img//12-4-lg.png  used on input line 106.
@@ -2325,14 +2352,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--106
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--115
-
- []
-
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 115.
+Package pdftex.def Info: logo/logo.png  used on input line 106.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2341,7 +2363,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[49 <./img//12-4-lg.png>]) (deso13.tex
+[51 <./img//12-4-lg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+
+ []
+
+) (deso13.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -2354,7 +2381,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
 
  []
@@ -2375,7 +2402,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[51
+[53
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
@@ -2397,6 +2424,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--112
 
  []
 
+<./img//13-4-lg.png, id=825, 154.176pt x 133.6995pt>
+File: ./img//13-4-lg.png Graphic file (type png)
+<use ./img//13-4-lg.png>
+Package pdftex.def Info: ./img//13-4-lg.png  used on input line 112.
+(pdftex.def)             Requested size: 204.85672pt x 177.65283pt.
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 112.
@@ -2408,18 +2440,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[52]
-<./img//13-4-lg.png, id=825, 154.176pt x 133.6995pt>
-File: ./img//13-4-lg.png Graphic file (type png)
-<use ./img//13-4-lg.png>
-Package pdftex.def Info: ./img//13-4-lg.png  used on input line 112.
-(pdftex.def)             Requested size: 204.85672pt x 177.65283pt.
-
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 148--148
 
  []
 
-<./img//13-5-lg.png, id=826, 177.66376pt x 183.084pt>
+<./img//13-5-lg.png, id=838, 177.66376pt x 183.084pt>
 File: ./img//13-5-lg.png Graphic file (type png)
 <use ./img//13-5-lg.png>
 Package pdftex.def Info: ./img//13-5-lg.png  used on input line 148.
@@ -2435,7 +2461,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[53 <./img//13-4-lg.png>]) (deso14.tex
+[55 <./img//13-4-lg.png>]) (deso14.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -2448,81 +2474,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[54 <./img//13-5-lg.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-
- []
-
+[56 <./img//13-5-lg.png>]
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 51.
+Package pdftex.def Info: logo/logo.png  used on input line 58.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[55
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-
- []
-
-) (deso15.tex
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 2.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[56]
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-
- []
-
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 39.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2533,46 +2490,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [57
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 
  []
 
-) (deso16.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+
+ []
+
+<./img//14-4-lg.png, id=882, 218.0145pt x 187.902pt>
+File: ./img//14-4-lg.png Graphic file (type png)
+<use ./img//14-4-lg.png>
+Package pdftex.def Info: ./img//14-4-lg.png  used on input line 107.
+(pdftex.def)             Requested size: 230.46576pt x 198.64474pt.
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 2.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[58]
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
-
- []
-
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
+Package pdftex.def Info: logo/logo.png  used on input line 107.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2581,14 +2515,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[59
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[58 <./img//14-4-lg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 
  []
 
-) (deso17.tex
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 118.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[59]) (deso15.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -2602,34 +2545,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [60]
-Underfull \hbox (badness 10000) in paragraph at lines 9--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
-
- []
-
-) (deso18.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 2.
+Package pdftex.def Info: logo/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 
@@ -2642,28 +2560,57 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [61
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
-
- []
-
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 44.
+Package pdftex.def Info: logo/logo.png  used on input line 87.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[62]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 148.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[63]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 148.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+
+ []
+
+<./img//15-4-lg.png, id=957, 215.6055pt x 171.64125pt>
+File: ./img//15-4-lg.png Graphic file (type png)
+<use ./img//15-4-lg.png>
+Package pdftex.def Info: ./img//15-4-lg.png  used on input line 185.
+(pdftex.def)             Requested size: 256.07481pt x 203.86798pt.
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 185.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2672,14 +2619,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[62
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[65 <./img//15-4-lg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 210--210
 
  []
 
-) (deso19.tex
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 210.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66]) (deso16.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -2692,29 +2648,52 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[63]
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
-
- []
-
+[67]
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
+Package pdftex.def Info: logo/logo.png  used on input line 70.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[68
+
+]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 121.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69]
+<./img//16-4-lg.png, id=1018, 301.125pt x 187.902pt>
+File: ./img//16-4-lg.png Graphic file (type png)
+<use ./img//16-4-lg.png>
+Package pdftex.def Info: ./img//16-4-lg.png  used on input line 121.
+(pdftex.def)             Requested size: 291.92903pt x 182.18156pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+File: ./img//16-4-lg.png Graphic file (type png)
+<use ./img//16-4-lg.png>
+Package pdftex.def Info: ./img//16-4-lg.png  used on input line 121.
+(pdftex.def)             Requested size: 291.92903pt x 182.18156pt.
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 121.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2723,10 +2702,300 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[64
+[70 <./img//16-4-lg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+
+ []
+
+
+LaTeX Warning: Command \` invalid in math mode on input line 135.
+
+Missing character: There is no ¼ in font cmr12!
+) (deso17.tex
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 2.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+
+ []
+
+
+Overfull \hbox (20.90585pt too wide) in paragraph at lines 62--62
+\T5/cmr/m/n/12 Gåi di»n t½ch, chi·u d i, chi·u rëng cõa c¡c m£nh ^^_§t $\OML/cmm/m/it/12 A; B; C$ \T5/cmr/m/n/12 theo thù tü l  $\OML/cmm/m/it/12 S[]; [][]; \OT1/cmr/m/n/12 r[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 S[]$\T5/cmr/m/n/12 , $[]\OML/cmm/m/it/12 ; []; []; []; []$\T5/cmr/m/n/12 .
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 62.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 89.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+
+ []
+
+<./img//17-5-lg.png, id=1057, 163.20975pt x 137.313pt>
+File: ./img//17-5-lg.png Graphic file (type png)
+<use ./img//17-5-lg.png>
+Package pdftex.def Info: ./img//17-5-lg.png  used on input line 135.
+(pdftex.def)             Requested size: 204.85672pt x 172.35738pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 135.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[74 <./img//17-5-lg.png>]) (deso18.tex
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 2.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+
+ []
+
+
+Overfull \hbox (44.49501pt too wide) in paragraph at lines 29--29
+\OT1/cmr/m/n/12 = [] \OMS/cmsy/m/n/12 ^^@ [] 
+ []
+
+
+Overfull \hbox (54.76991pt too wide) in paragraph at lines 29--29
+\OT1/cmr/m/n/12 = [] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 2 [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 55.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[76
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 80.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+
+ []
+
+<./img//18-4-lg.png, id=1110, 157.7895pt x 160.80075pt>
+File: ./img//18-4-lg.png Graphic file (type png)
+<use ./img//18-4-lg.png>
+Package pdftex.def Info: ./img//18-4-lg.png  used on input line 112.
+(pdftex.def)             Requested size: 204.85672pt x 208.77594pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 112.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78 <./img//18-4-lg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+
+ []
+
+<./img//18-5-lg.png, id=1124, 156.585pt x 140.32425pt>
+File: ./img//18-5-lg.png Graphic file (type png)
+<use ./img//18-5-lg.png>
+Package pdftex.def Info: ./img//18-5-lg.png  used on input line 130.
+(pdftex.def)             Requested size: 204.85672pt x 183.59058pt.
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 130.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[79 <./img//18-5-lg.png>]) (deso19.tex
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 2.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 50.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 82.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+
+ []
+
+<./img//19-4-lg.png, id=1169, 343.88475pt x 202.95825pt>
+File: ./img//19-4-lg.png Graphic file (type png)
+<use ./img//19-4-lg.png>
+Package pdftex.def Info: ./img//19-4-lg.png  used on input line 145.
+(pdftex.def)             Requested size: 256.07481pt x 151.1344pt.
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 145.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 145.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[84 <./img//19-4-lg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
 
  []
 
@@ -2743,29 +3012,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[65]
-Underfull \hbox (badness 10000) in paragraph at lines 10--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
 
  []
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 47.
+Package pdftex.def Info: logo/logo.png  used on input line 63.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2774,9 +3028,69 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[66
+[86
 
-]) (deso21.tex
+]
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 71.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+
+ []
+
+<./img//20-3-lg.png, id=1226, 202.356pt x 224.037pt>
+File: ./img//20-3-lg.png Graphic file (type png)
+<use ./img//20-3-lg.png>
+Package pdftex.def Info: ./img//20-3-lg.png  used on input line 87.
+(pdftex.def)             Requested size: 204.85672pt x 226.81569pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+
+ []
+
+<./img//20-4-lg.png, id=1227, 178.86826pt x 120.45pt>
+File: ./img//20-4-lg.png Graphic file (type png)
+<use ./img//20-4-lg.png>
+Package pdftex.def Info: ./img//20-4-lg.png  used on input line 110.
+(pdftex.def)             Requested size: 204.85672pt x 137.95584pt.
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 110.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[88 <./img//20-3-lg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
+
+ []
+
+File: logo/logo.png Graphic file (type png)
+<use logo/logo.png>
+Package pdftex.def Info: logo/logo.png  used on input line 125.
+(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[89 <./img//20-4-lg.png>]) (deso21.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -2789,7 +3103,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[67]
+[90]
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 
  []
@@ -2806,7 +3120,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 39.
+Package pdftex.def Info: logo/logo.png  used on input line 41.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2815,7 +3129,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[68
+[91
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 42--42
@@ -2840,7 +3154,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[69]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 
  []
@@ -2867,7 +3181,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 41.
+Package pdftex.def Info: logo/logo.png  used on input line 42.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2876,7 +3190,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[70
+[93
 
 ]) (deso23.tex
 File: logo/logo.png Graphic file (type png)
@@ -2891,7 +3205,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[71]
+[94]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -2918,7 +3232,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 45.
+Package pdftex.def Info: logo/logo.png  used on input line 46.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2927,7 +3241,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[72
+[95
 
 ]) (deso24.tex
 File: logo/logo.png Graphic file (type png)
@@ -2942,7 +3256,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[73]
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
  []
@@ -2964,7 +3278,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 46.
+Package pdftex.def Info: logo/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2973,7 +3287,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[74
+[97
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
@@ -2998,7 +3312,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[75]
+[98]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -3020,7 +3334,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
+Package pdftex.def Info: logo/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3029,7 +3343,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[76
+[99
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 48--48
@@ -3049,7 +3363,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[77]
+[100]
 Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
@@ -3071,7 +3385,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 46.
+Package pdftex.def Info: logo/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3080,7 +3394,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[78
+[101
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
@@ -3100,7 +3414,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[79]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
  []
@@ -3122,7 +3436,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
+Package pdftex.def Info: logo/logo.png  used on input line 43.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3131,7 +3445,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[80
+[103
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
@@ -3151,7 +3465,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[81]
+[104]
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 
  []
@@ -3177,7 +3491,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[82
+[105
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
@@ -3202,7 +3516,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[83]
+[106]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -3229,7 +3543,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 46.
+Package pdftex.def Info: logo/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3238,7 +3552,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[84
+[107
 
 ]) (deso30.tex
 File: logo/logo.png Graphic file (type png)
@@ -3253,7 +3567,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[85]
+[108]
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 
  []
@@ -3280,7 +3594,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
+Package pdftex.def Info: logo/logo.png  used on input line 43.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3289,7 +3603,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[86
+[109
 
 ]) (deso31.tex
 File: logo/logo.png Graphic file (type png)
@@ -3304,7 +3618,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[87]
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -3331,7 +3645,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--46
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 46.
+Package pdftex.def Info: logo/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3340,7 +3654,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[88
+[111
 
 ]) (deso32.tex
 File: logo/logo.png Graphic file (type png)
@@ -3355,7 +3669,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[89]
+[112]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -3372,7 +3686,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
+Package pdftex.def Info: logo/logo.png  used on input line 43.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3381,7 +3695,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[90
+[113
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
@@ -3406,7 +3720,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[91]
+[114]
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 
  []
@@ -3426,20 +3740,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
  []
 
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 46.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[92
-
-]) (deso34.tex
+) (deso34.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -3452,7 +3753,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[93]
+[115
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -3485,7 +3788,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[94
+[116
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 16--16
@@ -3507,6 +3810,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+
+ []
+
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 46.
@@ -3518,14 +3826,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[95
+[117
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-
- []
-
-) (deso36.tex
+]) (deso36.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 1.
@@ -3538,7 +3841,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[96]
+[118]
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 
  []
@@ -3558,9 +3861,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--35
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+
+ []
+
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 44.
+Package pdftex.def Info: logo/logo.png  used on input line 45.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3569,14 +3877,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[97
+[119
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-
- []
-
-) (deso37.tex
+]) (deso37.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 2.
@@ -3589,7 +3892,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[98]
+[120]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -3609,9 +3912,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+
+ []
+
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 41.
+Package pdftex.def Info: logo/logo.png  used on input line 42.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3620,14 +3928,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[99
+[121
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
-
- []
-
-) (deso38.tex
+]) (deso38.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 1.
@@ -3640,7 +3943,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[100]
+[122]
 Underfull \hbox (badness 10000) in paragraph at lines 7--7
 
  []
@@ -3667,7 +3970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 46.
+Package pdftex.def Info: logo/logo.png  used on input line 50.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3676,7 +3979,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[101
+[123
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
@@ -3706,7 +4009,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[102]
+[124]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -3728,7 +4031,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 46.
+Package pdftex.def Info: logo/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3737,7 +4040,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[103
+[125
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
@@ -3757,7 +4060,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[104]
+[126]
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 
  []
@@ -3779,7 +4082,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 45.
+Package pdftex.def Info: logo/logo.png  used on input line 46.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3788,7 +4091,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[105
+[127
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
@@ -3808,7 +4111,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[106]
+[128]
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 
  []
@@ -3828,6 +4131,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+
+ []
+
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 45.
@@ -3839,14 +4147,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[107
+[129
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-
- []
-
-) (deso42.tex
+]) (deso42.tex
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
 Package pdftex.def Info: logo/logo.png  used on input line 1.
@@ -3859,7 +4162,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[108]
+[130]
 Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
  []
@@ -3876,7 +4179,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 47.
+Package pdftex.def Info: logo/logo.png  used on input line 48.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3885,7 +4188,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[109
+[131
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
@@ -3910,7 +4213,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[110]
+[132]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -3948,7 +4251,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[111
+[133
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
@@ -3965,9 +4268,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 43.
+Package pdftex.def Info: logo/logo.png  used on input line 44.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3976,14 +4284,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[112
+[134
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 49--49
 
  []
@@ -4001,7 +4304,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[113]
+[135]
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 
  []
@@ -4023,7 +4326,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
+Package pdftex.def Info: logo/logo.png  used on input line 43.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4032,7 +4335,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[114
+[136
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
@@ -4052,7 +4355,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[115]
+[137]
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
 
  []
@@ -4074,7 +4377,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--39
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 47.
+Package pdftex.def Info: logo/logo.png  used on input line 48.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4083,7 +4386,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[116
+[138
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
@@ -4103,7 +4406,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[117]
+[139]
 Underfull \hbox (badness 10000) in paragraph at lines 11--11
 
  []
@@ -4125,7 +4428,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
+Package pdftex.def Info: logo/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4134,7 +4437,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[118
+[140
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
@@ -4154,7 +4457,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[119]
+[141]
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
  []
@@ -4171,7 +4474,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 41.
+Package pdftex.def Info: logo/logo.png  used on input line 42.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4180,7 +4483,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[120
+[142
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
@@ -4204,7 +4507,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--78
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 84.
+Package pdftex.def Info: logo/logo.png  used on input line 85.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4213,7 +4516,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[121]
+[143]
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
@@ -4228,14 +4531,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--111
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
-
- []
-
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 122.
+Package pdftex.def Info: logo/logo.png  used on input line 121.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4244,7 +4542,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[122]
+[144]
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
 
  []
@@ -4261,7 +4564,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 165.
+Package pdftex.def Info: logo/logo.png  used on input line 164.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4270,7 +4573,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[123]
+[145]
 Underfull \hbox (badness 10000) in paragraph at lines 172--172
 
  []
@@ -4293,7 +4596,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[124]
+[146]
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
@@ -4315,7 +4618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
 File: logo/logo.png Graphic file (type png)
 <use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 45.
+Package pdftex.def Info: logo/logo.png  used on input line 46.
 (pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -4324,7 +4627,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[125
+[147
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 56--56
@@ -4344,7 +4647,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[126]
+[148]
 Underfull \hbox (badness 10000) in paragraph at lines 9--9
 
  []
@@ -4369,20 +4672,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
  []
 
-File: logo/logo.png Graphic file (type png)
-<use logo/logo.png>
-Package pdftex.def Info: logo/logo.png  used on input line 42.
-(pdftex.def)             Requested size: 513.91875pt x 163.61084pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[127
-
-])
+)
 \tf@thm=\write8
 \openout8 = `main_new.thm'.
 
@@ -4399,7 +4689,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[128] (main_new.aux)
+[149
+
+] (main_new.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.6pt have occurred.
@@ -4412,20 +4704,17 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 43746 strings out of 476374
- 910570 string characters out of 5784571
+ 43966 strings out of 476374
+ 914090 string characters out of 5784571
  1883340 words of memory out of 5000000
- 61978 multiletter control sequences out of 15000+600000
+ 62101 multiletter control sequences out of 15000+600000
  536141 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,21n,98p,1292b,2508s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{page.129} has been referenced but does not exist, replaced by a fixed one
-
+ 86i,21n,98p,1292b,2506s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc} <C:\Users\Latitude E5480\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1440.pk>{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-t5.enc}{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}<C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qagb.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbxti10.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/Latitude E5480/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnssbx10.pfb>
-Output written on main_new.pdf (128 pages, 1222418 bytes).
+Output written on main_new.pdf (149 pages, 1462236 bytes).
 PDF statistics:
- 2399 PDF objects out of 2487 (max. 8388607)
- 1151 named destinations out of 1200 (max. 500000)
- 498 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2632 PDF objects out of 2984 (max. 8388607)
+ 1239 named destinations out of 1440 (max. 500000)
+ 543 words of extra memory for PDF output out of 10000 (max. 10000000)
 
